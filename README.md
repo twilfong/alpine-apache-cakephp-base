@@ -17,5 +17,5 @@ Note: SSL support is installed but not configured.
 | SERVER_ADMIN | you@example.com | Admin email address |
 | SERVER_NAME  | automatically determined | Main name and port that server uses |
 | LOG_LEVEL    | warn | debug/info/notice/warn/error/crit/alert/emerg |
-| CAKE_APP_DIR | cake_app | `DocumentRoot` is set to `/$APP_DIR/webroot` |
+| CAKE_APP_DIR | cake_app | `DocumentRoot` set to `/$CAKE_APP_DIR/webroot` |
 | PHP_MEMORY_LIMIT | 256M | |
